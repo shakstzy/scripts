@@ -8,3 +8,4 @@ Personal utility scripts. Add `~/scripts/bin` to PATH.
 - `uuid.sh` — generate uuid
 - `serve.sh` — quick HTTP server
 - `env-dump.sh` — dump env vars sorted
+- `json-pp.py` — pretty-print JSON from stdin
