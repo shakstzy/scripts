@@ -9,3 +9,4 @@ Personal utility scripts. Add `~/scripts/bin` to PATH.
 - `serve.sh` — quick HTTP server
 - `env-dump.sh` — dump env vars sorted
 - `json-pp.py` — pretty-print JSON from stdin
+- `git-cleanup.sh` — delete merged branches
