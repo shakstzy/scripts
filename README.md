@@ -11,3 +11,4 @@ Personal utility scripts. Add `~/scripts/bin` to PATH.
 - `json-pp.py` — pretty-print JSON from stdin
 - `git-cleanup.sh` — delete merged branches
 - `git-trim.sh` — delete remote-tracked branches
+- `rename-batch.py` — bulk file rename
