@@ -13,3 +13,4 @@ Personal utility scripts. Add `~/scripts/bin` to PATH.
 - `git-trim.sh` — delete remote-tracked branches
 - `rename-batch.py` — bulk file rename
 - `git-undo.sh` — undo last commit
+- `color.sh` — show terminal colors
