@@ -4,3 +4,5 @@
 set -euo pipefail
 
 echo "pomodoro timer"
+
+# rename internal variable for clarity
