@@ -14,3 +14,4 @@ Personal utility scripts. Add `~/scripts/bin` to PATH.
 - `rename-batch.py` — bulk file rename
 - `git-undo.sh` — undo last commit
 - `color.sh` — show terminal colors
+- `ports.sh` — list listening ports
