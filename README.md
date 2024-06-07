@@ -15,3 +15,4 @@ Personal utility scripts. Add `~/scripts/bin` to PATH.
 - `git-undo.sh` — undo last commit
 - `color.sh` — show terminal colors
 - `ports.sh` — list listening ports
+- `dedupe.py` — dedupe lines preserving order
