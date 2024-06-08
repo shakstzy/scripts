@@ -17,3 +17,4 @@ Personal utility scripts. Add `~/scripts/bin` to PATH.
 - `ports.sh` — list listening ports
 - `dedupe.py` — dedupe lines preserving order
 - `count-loc.sh` — count lines of code
+- `backup-dotfiles.sh` — sync dotfiles to git
