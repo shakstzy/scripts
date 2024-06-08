@@ -16,3 +16,4 @@ Personal utility scripts. Add `~/scripts/bin` to PATH.
 - `color.sh` — show terminal colors
 - `ports.sh` — list listening ports
 - `dedupe.py` — dedupe lines preserving order
+- `count-loc.sh` — count lines of code
