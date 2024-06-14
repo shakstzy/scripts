@@ -18,3 +18,4 @@ Personal utility scripts. Add `~/scripts/bin` to PATH.
 - `dedupe.py` — dedupe lines preserving order
 - `count-loc.sh` — count lines of code
 - `backup-dotfiles.sh` — sync dotfiles to git
+- `clean-ds.sh` — remove .DS_Store recursively
