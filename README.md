@@ -20,3 +20,4 @@ Personal utility scripts. Add `~/scripts/bin` to PATH.
 - `backup-dotfiles.sh` — sync dotfiles to git
 - `clean-ds.sh` — remove .DS_Store recursively
 - `convert-img.sh` — image format converter
+- `bench.sh` — simple command timer
