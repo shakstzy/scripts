@@ -19,3 +19,4 @@ Personal utility scripts. Add `~/scripts/bin` to PATH.
 - `count-loc.sh` — count lines of code
 - `backup-dotfiles.sh` — sync dotfiles to git
 - `clean-ds.sh` — remove .DS_Store recursively
+- `convert-img.sh` — image format converter
