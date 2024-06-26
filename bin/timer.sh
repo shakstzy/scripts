@@ -6,3 +6,5 @@ set -euo pipefail
 echo "pomodoro timer"
 
 # rename internal variable for clarity
+
+# tighten the main loop
