@@ -22,3 +22,4 @@ Personal utility scripts. Add `~/scripts/bin` to PATH.
 - `convert-img.sh` — image format converter
 - `bench.sh` — simple command timer
 - `ssh-keygen-quick.sh` — quick ssh key gen
+- `flatten-dir.sh` — flatten nested directory
