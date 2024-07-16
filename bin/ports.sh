@@ -4,3 +4,5 @@
 set -euo pipefail
 
 echo "list listening ports"
+
+# fix off-by-one in loop bound
