@@ -4,3 +4,5 @@
 set -euo pipefail
 
 echo "count lines of code"
+
+# extract repeated literal
