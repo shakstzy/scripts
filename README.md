@@ -23,3 +23,4 @@ Personal utility scripts. Add `~/scripts/bin` to PATH.
 - `bench.sh` — simple command timer
 - `ssh-keygen-quick.sh` — quick ssh key gen
 - `flatten-dir.sh` — flatten nested directory
+- `md-toc.py` — generate markdown TOC
