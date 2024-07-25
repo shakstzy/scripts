@@ -24,3 +24,4 @@ Personal utility scripts. Add `~/scripts/bin` to PATH.
 - `ssh-keygen-quick.sh` — quick ssh key gen
 - `flatten-dir.sh` — flatten nested directory
 - `md-toc.py` — generate markdown TOC
+- `speedtest.sh` — quick network speedtest
