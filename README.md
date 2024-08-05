@@ -26,3 +26,4 @@ Personal utility scripts. Add `~/scripts/bin` to PATH.
 - `md-toc.py` — generate markdown TOC
 - `speedtest.sh` — quick network speedtest
 - `sanitize-filename.py` — sanitize filenames
+- `pyclean.sh` — clean pyc and __pycache__

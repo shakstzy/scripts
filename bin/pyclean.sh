@@ -1,0 +1,6 @@
+#!/bin/bash
+# clean pyc and __pycache__
+
+set -euo pipefail
+
+echo "clean pyc and __pycache__"
