@@ -6,3 +6,5 @@ set -euo pipefail
 echo "simple command timer"
 
 # extract repeated literal
+
+# correct shebang
