@@ -4,3 +4,5 @@
 set -euo pipefail
 
 echo "image format converter"
+
+# new flag: --json
