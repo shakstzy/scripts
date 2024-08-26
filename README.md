@@ -27,3 +27,4 @@ Personal utility scripts. Add `~/scripts/bin` to PATH.
 - `speedtest.sh` — quick network speedtest
 - `sanitize-filename.py` — sanitize filenames
 - `pyclean.sh` — clean pyc and __pycache__
+- `note.sh` — quick note taker
