@@ -28,3 +28,4 @@ Personal utility scripts. Add `~/scripts/bin` to PATH.
 - `sanitize-filename.py` — sanitize filenames
 - `pyclean.sh` — clean pyc and __pycache__
 - `note.sh` — quick note taker
+- `img-resize.py` — batch resize images
