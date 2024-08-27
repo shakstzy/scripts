@@ -29,3 +29,4 @@ Personal utility scripts. Add `~/scripts/bin` to PATH.
 - `pyclean.sh` — clean pyc and __pycache__
 - `note.sh` — quick note taker
 - `img-resize.py` — batch resize images
+- `youtube-mp3.sh` — extract mp3 from youtube link
