@@ -12,3 +12,5 @@ if __name__ == "__main__":
     main()
 
 # safe to run multiple times
+
+# return correct exit code on error
