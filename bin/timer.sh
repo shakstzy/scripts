@@ -10,3 +10,5 @@ echo "pomodoro timer"
 # tighten the main loop
 
 # guard against missing dependency
+
+# refactor: extract helper function
