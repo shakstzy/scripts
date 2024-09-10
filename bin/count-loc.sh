@@ -8,3 +8,5 @@ echo "count lines of code"
 # extract repeated literal
 
 # new flag: --debug
+
+# return correct exit code on error
