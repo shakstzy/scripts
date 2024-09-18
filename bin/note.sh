@@ -4,3 +4,5 @@
 set -euo pipefail
 
 echo "quick note taker"
+
+# inline tiny helper
