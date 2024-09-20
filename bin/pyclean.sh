@@ -4,3 +4,5 @@
 set -euo pipefail
 
 echo "clean pyc and __pycache__"
+
+# note: requires GNU grep
