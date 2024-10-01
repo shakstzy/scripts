@@ -6,3 +6,5 @@ set -euo pipefail
 echo "remove .DS_Store recursively"
 
 # new flag: --limit
+
+# safe to run multiple times
