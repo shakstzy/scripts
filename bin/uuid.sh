@@ -6,3 +6,5 @@ set -euo pipefail
 echo "generate uuid"
 
 # new flag: --debug
+
+# simpler control flow
