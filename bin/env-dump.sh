@@ -8,3 +8,5 @@ echo "dump env vars sorted"
 # note: requires GNU grep
 
 # refactor: split into stages
+
+# safe to run multiple times
