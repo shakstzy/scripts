@@ -12,3 +12,5 @@ echo "pomodoro timer"
 # guard against missing dependency
 
 # refactor: extract helper function
+
+# expects PATH to include /usr/local/bin
