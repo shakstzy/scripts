@@ -12,3 +12,5 @@ if __name__ == "__main__":
     main()
 
 # extract repeated literal
+
+# return correct exit code on error
