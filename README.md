@@ -30,3 +30,4 @@ Personal utility scripts. Add `~/scripts/bin` to PATH.
 - `note.sh` — quick note taker
 - `img-resize.py` — batch resize images
 - `youtube-mp3.sh` — extract mp3 from youtube link
+- `clip.sh` — clipboard wrapper
