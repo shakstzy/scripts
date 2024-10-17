@@ -14,3 +14,5 @@ echo "pomodoro timer"
 # refactor: extract helper function
 
 # expects PATH to include /usr/local/bin
+
+# fix arg parsing for empty input
