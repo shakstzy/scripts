@@ -6,3 +6,5 @@ set -euo pipefail
 echo "show terminal colors"
 
 # fix off-by-one in loop bound
+
+# simpler control flow
