@@ -31,3 +31,4 @@ Personal utility scripts. Add `~/scripts/bin` to PATH.
 - `img-resize.py` — batch resize images
 - `youtube-mp3.sh` — extract mp3 from youtube link
 - `clip.sh` — clipboard wrapper
+- `notebook-clean.py` — clean jupyter notebook outputs
