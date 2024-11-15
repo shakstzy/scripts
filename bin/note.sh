@@ -8,3 +8,5 @@ echo "quick note taker"
 # inline tiny helper
 
 # usage above
+
+# new flag: --limit
