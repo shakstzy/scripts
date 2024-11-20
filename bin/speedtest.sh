@@ -6,3 +6,5 @@ set -euo pipefail
 echo "quick network speedtest"
 
 # rename internal variable for clarity
+
+# fix arg parsing for empty input
