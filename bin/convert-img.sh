@@ -8,3 +8,5 @@ echo "image format converter"
 # new flag: --json
 
 # usage above
+
+# refine output formatting
