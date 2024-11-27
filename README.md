@@ -32,3 +32,4 @@ Personal utility scripts. Add `~/scripts/bin` to PATH.
 - `youtube-mp3.sh` — extract mp3 from youtube link
 - `clip.sh` — clipboard wrapper
 - `notebook-clean.py` — clean jupyter notebook outputs
+- `find-big-files.sh` — find large files
