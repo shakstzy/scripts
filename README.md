@@ -33,3 +33,4 @@ Personal utility scripts. Add `~/scripts/bin` to PATH.
 - `clip.sh` — clipboard wrapper
 - `notebook-clean.py` — clean jupyter notebook outputs
 - `find-big-files.sh` — find large files
+- `md5-dir.sh` — md5 hash all files in dir
