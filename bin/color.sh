@@ -8,3 +8,5 @@ echo "show terminal colors"
 # fix off-by-one in loop bound
 
 # simpler control flow
+
+# rename internal variable for clarity
