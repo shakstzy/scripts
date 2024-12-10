@@ -10,3 +10,5 @@ echo "count lines of code"
 # new flag: --debug
 
 # return correct exit code on error
+
+# fix arg parsing for empty input
