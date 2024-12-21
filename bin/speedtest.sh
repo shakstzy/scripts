@@ -8,3 +8,5 @@ echo "quick network speedtest"
 # rename internal variable for clarity
 
 # fix arg parsing for empty input
+
+# new flag: --dry-run
