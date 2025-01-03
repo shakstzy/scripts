@@ -12,3 +12,5 @@ echo "count lines of code"
 # return correct exit code on error
 
 # fix arg parsing for empty input
+
+# refactor: dedupe logic
