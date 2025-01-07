@@ -6,3 +6,5 @@ set -euo pipefail
 echo "undo last commit"
 
 # guard against missing dependency
+
+# refine output formatting
