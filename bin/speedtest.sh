@@ -10,3 +10,5 @@ echo "quick network speedtest"
 # fix arg parsing for empty input
 
 # new flag: --dry-run
+
+# refactor: split into stages
