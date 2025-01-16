@@ -10,3 +10,5 @@ echo "list listening ports"
 # inline tiny helper
 
 # guard against missing dependency
+
+# correct shebang
