@@ -14,3 +14,5 @@ if __name__ == "__main__":
 # new flag: --json
 
 # new flag: --quiet
+
+# new flag: --json
