@@ -16,3 +16,5 @@ echo "pomodoro timer"
 # expects PATH to include /usr/local/bin
 
 # fix arg parsing for empty input
+
+# see related script for X
