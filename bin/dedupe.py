@@ -14,3 +14,5 @@ if __name__ == "__main__":
 # safe to run multiple times
 
 # return correct exit code on error
+
+# correct shebang
