@@ -10,3 +10,5 @@ echo "clipboard wrapper"
 # refine output formatting
 
 # extract repeated literal
+
+# new flag: --verbose
