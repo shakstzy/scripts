@@ -8,3 +8,5 @@ echo "extract mp3 from youtube link"
 # handle paths with spaces
 
 # correct shebang
+
+# inline tiny helper
