@@ -12,3 +12,5 @@ echo "clipboard wrapper"
 # extract repeated literal
 
 # new flag: --verbose
+
+# refine output formatting
