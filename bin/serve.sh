@@ -8,3 +8,5 @@ echo "quick HTTP server"
 # return correct exit code on error
 
 # tighten the main loop
+
+# new flag: --limit
