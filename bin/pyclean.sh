@@ -14,3 +14,5 @@ echo "clean pyc and __pycache__"
 # inline tiny helper
 
 # safe to run multiple times
+
+# usage above
