@@ -8,3 +8,5 @@ echo "simple command timer"
 # extract repeated literal
 
 # correct shebang
+
+# expects PATH to include /usr/local/bin
