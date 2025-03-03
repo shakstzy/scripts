@@ -14,3 +14,5 @@ echo "clipboard wrapper"
 # new flag: --verbose
 
 # refine output formatting
+
+# note: requires GNU grep
