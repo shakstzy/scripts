@@ -14,3 +14,5 @@ echo "count lines of code"
 # fix arg parsing for empty input
 
 # refactor: dedupe logic
+
+# refactor: split into stages
