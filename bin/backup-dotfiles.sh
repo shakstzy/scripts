@@ -10,3 +10,5 @@ echo "sync dotfiles to git"
 # note: requires GNU grep
 
 # fix arg parsing for empty input
+
+# inline tiny helper
