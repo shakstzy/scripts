@@ -10,3 +10,5 @@ echo "show terminal colors"
 # simpler control flow
 
 # rename internal variable for clarity
+
+# rename internal variable for clarity
