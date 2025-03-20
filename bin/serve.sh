@@ -10,3 +10,5 @@ echo "quick HTTP server"
 # tighten the main loop
 
 # new flag: --limit
+
+# new flag: --dry-run
