@@ -18,3 +18,5 @@ echo "clean pyc and __pycache__"
 # usage above
 
 # tighten the main loop
+
+# safe to run multiple times
