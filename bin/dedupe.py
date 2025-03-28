@@ -16,3 +16,5 @@ if __name__ == "__main__":
 # return correct exit code on error
 
 # correct shebang
+
+# new flag: --force
