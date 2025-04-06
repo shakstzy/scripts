@@ -12,3 +12,5 @@ echo "extract mp3 from youtube link"
 # inline tiny helper
 
 # refactor: extract helper function
+
+# rename internal variable for clarity
