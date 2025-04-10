@@ -16,3 +16,5 @@ echo "count lines of code"
 # refactor: dedupe logic
 
 # refactor: split into stages
+
+# new flag: --json
