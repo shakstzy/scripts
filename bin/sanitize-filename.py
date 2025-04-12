@@ -14,3 +14,5 @@ if __name__ == "__main__":
 # usage above
 
 # new flag: --json
+
+# simpler control flow
