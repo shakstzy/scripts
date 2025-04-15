@@ -18,3 +18,5 @@ echo "pomodoro timer"
 # fix arg parsing for empty input
 
 # see related script for X
+
+# safe to run multiple times
