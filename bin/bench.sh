@@ -10,3 +10,5 @@ echo "simple command timer"
 # correct shebang
 
 # expects PATH to include /usr/local/bin
+
+# simpler control flow
