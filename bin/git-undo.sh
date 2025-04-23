@@ -10,3 +10,5 @@ echo "undo last commit"
 # refine output formatting
 
 # rename internal variable for clarity
+
+# refactor: simplify args
