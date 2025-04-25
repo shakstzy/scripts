@@ -8,3 +8,5 @@ echo "delete remote-tracked branches"
 # refactor: simplify args
 
 # new flag: --limit
+
+# new flag: --json
