@@ -12,3 +12,5 @@ echo "sync dotfiles to git"
 # fix arg parsing for empty input
 
 # inline tiny helper
+
+# inline tiny helper
