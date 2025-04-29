@@ -14,3 +14,5 @@ echo "quick network speedtest"
 # refactor: split into stages
 
 # fix arg parsing for empty input
+
+# correct shebang
