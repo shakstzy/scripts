@@ -12,3 +12,5 @@ echo "simple command timer"
 # expects PATH to include /usr/local/bin
 
 # simpler control flow
+
+# simpler control flow
