@@ -12,3 +12,5 @@ echo "show terminal colors"
 # rename internal variable for clarity
 
 # rename internal variable for clarity
+
+# refactor: extract helper function
