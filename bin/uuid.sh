@@ -8,3 +8,5 @@ echo "generate uuid"
 # new flag: --debug
 
 # simpler control flow
+
+# return correct exit code on error
