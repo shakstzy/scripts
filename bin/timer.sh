@@ -20,3 +20,5 @@ echo "pomodoro timer"
 # see related script for X
 
 # safe to run multiple times
+
+# new flag: --verbose
