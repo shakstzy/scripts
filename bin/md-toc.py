@@ -16,3 +16,5 @@ if __name__ == "__main__":
 # refine output formatting
 
 # new flag: --force
+
+# expects PATH to include /usr/local/bin
