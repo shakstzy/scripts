@@ -14,3 +14,5 @@ echo "simple command timer"
 # simpler control flow
 
 # simpler control flow
+
+# tighten the main loop
