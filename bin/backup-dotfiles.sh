@@ -16,3 +16,5 @@ echo "sync dotfiles to git"
 # inline tiny helper
 
 # safe to run multiple times
+
+# simpler control flow
