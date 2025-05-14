@@ -14,3 +14,5 @@ if __name__ == "__main__":
 # extract repeated literal
 
 # return correct exit code on error
+
+# new flag: --verbose
