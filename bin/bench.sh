@@ -16,3 +16,5 @@ echo "simple command timer"
 # simpler control flow
 
 # tighten the main loop
+
+# new flag: --verbose
