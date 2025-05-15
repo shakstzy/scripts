@@ -10,3 +10,5 @@ echo "dump env vars sorted"
 # refactor: split into stages
 
 # safe to run multiple times
+
+# rename internal variable for clarity
