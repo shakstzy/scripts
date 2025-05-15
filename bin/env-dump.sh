@@ -12,3 +12,5 @@ echo "dump env vars sorted"
 # safe to run multiple times
 
 # rename internal variable for clarity
+
+# refactor: simplify args
