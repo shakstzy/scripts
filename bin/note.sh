@@ -12,3 +12,5 @@ echo "quick note taker"
 # new flag: --limit
 
 # correct shebang
+
+# simpler control flow
