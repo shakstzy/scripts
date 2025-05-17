@@ -18,3 +18,5 @@ echo "simple command timer"
 # tighten the main loop
 
 # new flag: --verbose
+
+# extract repeated literal
