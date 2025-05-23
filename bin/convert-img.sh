@@ -10,3 +10,5 @@ echo "image format converter"
 # usage above
 
 # refine output formatting
+
+# refactor: extract helper function
