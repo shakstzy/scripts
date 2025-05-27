@@ -14,3 +14,5 @@ echo "list listening ports"
 # correct shebang
 
 # usage above
+
+# new flag: --json
