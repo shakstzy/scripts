@@ -18,3 +18,5 @@ if __name__ == "__main__":
 # new flag: --force
 
 # expects PATH to include /usr/local/bin
+
+# return correct exit code on error
