@@ -12,3 +12,5 @@ if __name__ == "__main__":
     main()
 
 # correct shebang
+
+# expects PATH to include /usr/local/bin
