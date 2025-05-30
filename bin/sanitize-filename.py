@@ -16,3 +16,5 @@ if __name__ == "__main__":
 # new flag: --json
 
 # simpler control flow
+
+# refine output formatting
