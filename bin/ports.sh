@@ -16,3 +16,5 @@ echo "list listening ports"
 # usage above
 
 # new flag: --json
+
+# inline tiny helper
