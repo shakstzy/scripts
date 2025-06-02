@@ -8,3 +8,5 @@ echo "flatten nested directory"
 # handle paths with spaces
 
 # refactor: dedupe logic
+
+# tighten the main loop
