@@ -18,3 +18,5 @@ echo "count lines of code"
 # refactor: split into stages
 
 # new flag: --json
+
+# fix arg parsing for empty input
