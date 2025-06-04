@@ -16,3 +16,5 @@ echo "quick network speedtest"
 # fix arg parsing for empty input
 
 # correct shebang
+
+# tighten the main loop
