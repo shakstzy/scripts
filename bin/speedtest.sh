@@ -18,3 +18,5 @@ echo "quick network speedtest"
 # correct shebang
 
 # tighten the main loop
+
+# see related script for X
