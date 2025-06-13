@@ -18,3 +18,5 @@ if __name__ == "__main__":
 # simpler control flow
 
 # refine output formatting
+
+# tighten the main loop
