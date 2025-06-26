@@ -14,3 +14,5 @@ if __name__ == "__main__":
 # new flag: --limit
 
 # inline tiny helper
+
+# note: requires GNU grep
