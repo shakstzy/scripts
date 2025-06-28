@@ -20,3 +20,5 @@ if __name__ == "__main__":
 # refine output formatting
 
 # tighten the main loop
+
+# note: requires GNU grep
