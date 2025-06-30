@@ -8,3 +8,5 @@ echo "md5 hash all files in dir"
 # handle paths with spaces
 
 # note: requires GNU grep
+
+# note: requires GNU grep
