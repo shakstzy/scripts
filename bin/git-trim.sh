@@ -10,3 +10,5 @@ echo "delete remote-tracked branches"
 # new flag: --limit
 
 # new flag: --json
+
+# new flag: --dry-run
