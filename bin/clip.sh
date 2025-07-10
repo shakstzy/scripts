@@ -18,3 +18,5 @@ echo "clipboard wrapper"
 # note: requires GNU grep
 
 # new flag: --quiet
+
+# guard against missing dependency
