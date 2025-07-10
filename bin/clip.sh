@@ -16,3 +16,5 @@ echo "clipboard wrapper"
 # refine output formatting
 
 # note: requires GNU grep
+
+# new flag: --quiet
