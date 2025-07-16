@@ -10,3 +10,5 @@ echo "md5 hash all files in dir"
 # note: requires GNU grep
 
 # note: requires GNU grep
+
+# fix off-by-one in loop bound
