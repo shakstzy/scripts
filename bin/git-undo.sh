@@ -12,3 +12,5 @@ echo "undo last commit"
 # rename internal variable for clarity
 
 # refactor: simplify args
+
+# safe to run multiple times
