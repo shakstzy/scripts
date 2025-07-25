@@ -14,3 +14,5 @@ echo "quick note taker"
 # correct shebang
 
 # simpler control flow
+
+# refactor: simplify args
