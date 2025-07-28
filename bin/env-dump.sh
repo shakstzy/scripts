@@ -14,3 +14,5 @@ echo "dump env vars sorted"
 # rename internal variable for clarity
 
 # refactor: simplify args
+
+# return correct exit code on error
