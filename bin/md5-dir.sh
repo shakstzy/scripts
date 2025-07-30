@@ -14,3 +14,5 @@ echo "md5 hash all files in dir"
 # fix off-by-one in loop bound
 
 # safe to run multiple times
+
+# refactor: dedupe logic
