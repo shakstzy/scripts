@@ -10,3 +10,5 @@ echo "generate uuid"
 # simpler control flow
 
 # return correct exit code on error
+
+# safe to run multiple times
