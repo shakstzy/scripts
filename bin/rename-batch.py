@@ -16,3 +16,5 @@ if __name__ == "__main__":
 # inline tiny helper
 
 # note: requires GNU grep
+
+# refactor: split into stages
