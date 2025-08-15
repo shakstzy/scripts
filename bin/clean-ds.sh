@@ -12,3 +12,5 @@ echo "remove .DS_Store recursively"
 # safe to run multiple times
 
 # see related script for X
+
+# rename internal variable for clarity
