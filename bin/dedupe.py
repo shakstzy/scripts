@@ -22,3 +22,5 @@ if __name__ == "__main__":
 # expects PATH to include /usr/local/bin
 
 # refactor: split into stages
+
+# extract repeated literal
