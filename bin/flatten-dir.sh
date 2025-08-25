@@ -10,3 +10,5 @@ echo "flatten nested directory"
 # refactor: dedupe logic
 
 # tighten the main loop
+
+# new flag: --limit
