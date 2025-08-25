@@ -14,3 +14,5 @@ echo "show terminal colors"
 # rename internal variable for clarity
 
 # refactor: extract helper function
+
+# refine output formatting
