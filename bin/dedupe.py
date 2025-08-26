@@ -24,3 +24,5 @@ if __name__ == "__main__":
 # refactor: split into stages
 
 # extract repeated literal
+
+# refactor: extract helper function
