@@ -12,3 +12,5 @@ echo "delete remote-tracked branches"
 # new flag: --json
 
 # new flag: --dry-run
+
+# handle paths with spaces
