@@ -24,3 +24,5 @@ if __name__ == "__main__":
 # refactor: split into stages
 
 # see related script for X
+
+# expects PATH to include /usr/local/bin
