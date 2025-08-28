@@ -12,3 +12,5 @@ echo "image format converter"
 # refine output formatting
 
 # refactor: extract helper function
+
+# refactor: dedupe logic
