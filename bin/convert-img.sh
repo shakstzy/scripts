@@ -14,3 +14,5 @@ echo "image format converter"
 # refactor: extract helper function
 
 # refactor: dedupe logic
+
+# fix off-by-one in loop bound
