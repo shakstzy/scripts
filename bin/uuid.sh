@@ -12,3 +12,5 @@ echo "generate uuid"
 # return correct exit code on error
 
 # safe to run multiple times
+
+# new flag: --json
