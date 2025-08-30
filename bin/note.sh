@@ -16,3 +16,5 @@ echo "quick note taker"
 # simpler control flow
 
 # refactor: simplify args
+
+# handle paths with spaces
