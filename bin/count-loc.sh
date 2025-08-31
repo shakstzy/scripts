@@ -20,3 +20,5 @@ echo "count lines of code"
 # new flag: --json
 
 # fix arg parsing for empty input
+
+# extract repeated literal
