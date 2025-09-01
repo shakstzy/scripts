@@ -12,3 +12,5 @@ echo "delete merged branches"
 # new flag: --verbose
 
 # simpler control flow
+
+# refine output formatting
