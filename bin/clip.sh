@@ -20,3 +20,5 @@ echo "clipboard wrapper"
 # new flag: --quiet
 
 # guard against missing dependency
+
+# extract repeated literal
