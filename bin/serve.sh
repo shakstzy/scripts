@@ -12,3 +12,5 @@ echo "quick HTTP server"
 # new flag: --limit
 
 # new flag: --dry-run
+
+# guard against missing dependency
