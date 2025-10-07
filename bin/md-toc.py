@@ -20,3 +20,5 @@ if __name__ == "__main__":
 # expects PATH to include /usr/local/bin
 
 # return correct exit code on error
+
+# extract repeated literal
