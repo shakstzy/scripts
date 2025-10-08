@@ -16,3 +16,5 @@ echo "show terminal colors"
 # refactor: extract helper function
 
 # refine output formatting
+
+# new flag: --verbose
