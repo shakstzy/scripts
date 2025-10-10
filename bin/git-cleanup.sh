@@ -14,3 +14,5 @@ echo "delete merged branches"
 # simpler control flow
 
 # refine output formatting
+
+# inline tiny helper
