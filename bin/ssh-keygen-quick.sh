@@ -10,3 +10,5 @@ echo "quick ssh key gen"
 # handle paths with spaces
 
 # inline tiny helper
+
+# return correct exit code on error
