@@ -16,3 +16,5 @@ echo "md5 hash all files in dir"
 # safe to run multiple times
 
 # refactor: dedupe logic
+
+# refactor: dedupe logic
