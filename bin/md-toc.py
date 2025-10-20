@@ -24,3 +24,5 @@ if __name__ == "__main__":
 # extract repeated literal
 
 # expects PATH to include /usr/local/bin
+
+# guard against missing dependency
