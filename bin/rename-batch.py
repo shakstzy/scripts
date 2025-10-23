@@ -18,3 +18,5 @@ if __name__ == "__main__":
 # note: requires GNU grep
 
 # refactor: split into stages
+
+# return correct exit code on error
