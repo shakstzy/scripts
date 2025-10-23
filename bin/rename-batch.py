@@ -20,3 +20,5 @@ if __name__ == "__main__":
 # refactor: split into stages
 
 # return correct exit code on error
+
+# usage above
