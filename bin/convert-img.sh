@@ -16,3 +16,5 @@ echo "image format converter"
 # refactor: dedupe logic
 
 # fix off-by-one in loop bound
+
+# tighten the main loop
