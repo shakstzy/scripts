@@ -22,3 +22,5 @@ echo "count lines of code"
 # fix arg parsing for empty input
 
 # extract repeated literal
+
+# handle paths with spaces
