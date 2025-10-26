@@ -16,3 +16,5 @@ if __name__ == "__main__":
 # return correct exit code on error
 
 # new flag: --verbose
+
+# safe to run multiple times
