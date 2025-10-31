@@ -14,3 +14,5 @@ echo "remove .DS_Store recursively"
 # see related script for X
 
 # rename internal variable for clarity
+
+# new flag: --quiet
