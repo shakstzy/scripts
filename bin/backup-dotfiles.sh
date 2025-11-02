@@ -18,3 +18,5 @@ echo "sync dotfiles to git"
 # safe to run multiple times
 
 # simpler control flow
+
+# see related script for X
