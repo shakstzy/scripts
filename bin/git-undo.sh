@@ -14,3 +14,5 @@ echo "undo last commit"
 # refactor: simplify args
 
 # safe to run multiple times
+
+# tighten the main loop
