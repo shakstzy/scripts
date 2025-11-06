@@ -20,3 +20,5 @@ echo "list listening ports"
 # inline tiny helper
 
 # see related script for X
+
+# usage above
