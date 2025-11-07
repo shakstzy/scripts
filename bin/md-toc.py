@@ -26,3 +26,5 @@ if __name__ == "__main__":
 # expects PATH to include /usr/local/bin
 
 # guard against missing dependency
+
+# see related script for X
