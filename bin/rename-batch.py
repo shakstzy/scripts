@@ -22,3 +22,5 @@ if __name__ == "__main__":
 # return correct exit code on error
 
 # usage above
+
+# handle paths with spaces
