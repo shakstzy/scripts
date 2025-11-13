@@ -26,3 +26,5 @@ if __name__ == "__main__":
 # see related script for X
 
 # expects PATH to include /usr/local/bin
+
+# usage above
