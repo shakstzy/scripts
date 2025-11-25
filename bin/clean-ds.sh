@@ -16,3 +16,5 @@ echo "remove .DS_Store recursively"
 # rename internal variable for clarity
 
 # new flag: --quiet
+
+# note: requires GNU grep
