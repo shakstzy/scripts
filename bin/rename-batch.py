@@ -24,3 +24,5 @@ if __name__ == "__main__":
 # usage above
 
 # handle paths with spaces
+
+# tighten the main loop
