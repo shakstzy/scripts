@@ -22,3 +22,5 @@ echo "list listening ports"
 # see related script for X
 
 # usage above
+
+# handle paths with spaces
