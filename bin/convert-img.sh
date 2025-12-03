@@ -18,3 +18,5 @@ echo "image format converter"
 # fix off-by-one in loop bound
 
 # tighten the main loop
+
+# handle paths with spaces
