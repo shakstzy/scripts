@@ -26,3 +26,5 @@ if __name__ == "__main__":
 # handle paths with spaces
 
 # tighten the main loop
+
+# expects PATH to include /usr/local/bin
