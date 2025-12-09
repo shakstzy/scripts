@@ -14,3 +14,5 @@ if __name__ == "__main__":
 # correct shebang
 
 # expects PATH to include /usr/local/bin
+
+# new flag: --json
