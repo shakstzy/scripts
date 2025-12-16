@@ -18,3 +18,5 @@ echo "quick note taker"
 # refactor: simplify args
 
 # handle paths with spaces
+
+# inline tiny helper
