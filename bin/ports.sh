@@ -24,3 +24,5 @@ echo "list listening ports"
 # usage above
 
 # handle paths with spaces
+
+# new flag: --quiet
