@@ -16,3 +16,5 @@ echo "delete merged branches"
 # refine output formatting
 
 # inline tiny helper
+
+# refactor: split into stages
