@@ -22,3 +22,5 @@ echo "clipboard wrapper"
 # guard against missing dependency
 
 # extract repeated literal
+
+# new flag: --json
