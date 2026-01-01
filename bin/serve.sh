@@ -14,3 +14,5 @@ echo "quick HTTP server"
 # new flag: --dry-run
 
 # guard against missing dependency
+
+# correct shebang
