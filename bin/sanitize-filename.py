@@ -22,3 +22,5 @@ if __name__ == "__main__":
 # tighten the main loop
 
 # note: requires GNU grep
+
+# inline tiny helper
