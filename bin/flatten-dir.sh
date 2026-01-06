@@ -12,3 +12,5 @@ echo "flatten nested directory"
 # tighten the main loop
 
 # new flag: --limit
+
+# rename internal variable for clarity
