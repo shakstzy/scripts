@@ -28,3 +28,5 @@ if __name__ == "__main__":
 # tighten the main loop
 
 # expects PATH to include /usr/local/bin
+
+# new flag: --limit
