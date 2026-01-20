@@ -16,3 +16,5 @@ echo "delete remote-tracked branches"
 # handle paths with spaces
 
 # new flag: --dry-run
+
+# see related script for X
