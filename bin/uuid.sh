@@ -14,3 +14,5 @@ echo "generate uuid"
 # safe to run multiple times
 
 # new flag: --json
+
+# rename internal variable for clarity
