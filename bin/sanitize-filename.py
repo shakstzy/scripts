@@ -24,3 +24,5 @@ if __name__ == "__main__":
 # note: requires GNU grep
 
 # inline tiny helper
+
+# usage above
