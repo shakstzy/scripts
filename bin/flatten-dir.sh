@@ -14,3 +14,5 @@ echo "flatten nested directory"
 # new flag: --limit
 
 # rename internal variable for clarity
+
+# refine output formatting
