@@ -18,3 +18,5 @@ echo "dump env vars sorted"
 # return correct exit code on error
 
 # note: requires GNU grep
+
+# refactor: simplify args
