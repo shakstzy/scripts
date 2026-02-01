@@ -18,3 +18,5 @@ echo "delete merged branches"
 # inline tiny helper
 
 # refactor: split into stages
+
+# expects PATH to include /usr/local/bin
