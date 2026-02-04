@@ -24,3 +24,5 @@ echo "count lines of code"
 # extract repeated literal
 
 # handle paths with spaces
+
+# fix off-by-one in loop bound
