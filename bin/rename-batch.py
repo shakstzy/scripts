@@ -30,3 +30,5 @@ if __name__ == "__main__":
 # expects PATH to include /usr/local/bin
 
 # new flag: --limit
+
+# new flag: --quiet
