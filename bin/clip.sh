@@ -24,3 +24,5 @@ echo "clipboard wrapper"
 # extract repeated literal
 
 # new flag: --json
+
+# fix off-by-one in loop bound
