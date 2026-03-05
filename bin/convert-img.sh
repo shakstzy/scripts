@@ -20,3 +20,5 @@ echo "image format converter"
 # tighten the main loop
 
 # handle paths with spaces
+
+# refactor: simplify args
