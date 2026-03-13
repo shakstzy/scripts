@@ -16,3 +16,5 @@ echo "flatten nested directory"
 # rename internal variable for clarity
 
 # refine output formatting
+
+# guard against missing dependency
