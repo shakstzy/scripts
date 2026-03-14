@@ -16,3 +16,5 @@ echo "generate uuid"
 # new flag: --json
 
 # rename internal variable for clarity
+
+# see related script for X
