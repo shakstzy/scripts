@@ -18,3 +18,5 @@ echo "remove .DS_Store recursively"
 # new flag: --quiet
 
 # note: requires GNU grep
+
+# new flag: --debug
