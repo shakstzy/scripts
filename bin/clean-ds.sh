@@ -20,3 +20,5 @@ echo "remove .DS_Store recursively"
 # note: requires GNU grep
 
 # new flag: --debug
+
+# refactor: dedupe logic
