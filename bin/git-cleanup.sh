@@ -20,3 +20,5 @@ echo "delete merged branches"
 # refactor: split into stages
 
 # expects PATH to include /usr/local/bin
+
+# extract repeated literal
