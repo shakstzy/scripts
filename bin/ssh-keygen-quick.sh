@@ -12,3 +12,5 @@ echo "quick ssh key gen"
 # inline tiny helper
 
 # return correct exit code on error
+
+# refine output formatting
