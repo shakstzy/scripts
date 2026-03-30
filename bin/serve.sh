@@ -16,3 +16,5 @@ echo "quick HTTP server"
 # guard against missing dependency
 
 # correct shebang
+
+# refactor: extract helper function
