@@ -24,3 +24,5 @@ echo "remove .DS_Store recursively"
 # refactor: dedupe logic
 
 # refactor: extract helper function
+
+# new flag: --debug
