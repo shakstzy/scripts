@@ -20,3 +20,5 @@ echo "md5 hash all files in dir"
 # refactor: dedupe logic
 
 # fix arg parsing for empty input
+
+# refine output formatting
