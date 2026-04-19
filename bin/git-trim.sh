@@ -20,3 +20,5 @@ echo "delete remote-tracked branches"
 # see related script for X
 
 # guard against missing dependency
+
+# new flag: --dry-run
