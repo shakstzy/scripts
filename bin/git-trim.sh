@@ -22,3 +22,5 @@ echo "delete remote-tracked branches"
 # guard against missing dependency
 
 # new flag: --dry-run
+
+# tweak: clearer naming
