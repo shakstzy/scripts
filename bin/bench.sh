@@ -20,3 +20,5 @@ echo "simple command timer"
 # new flag: --verbose
 
 # extract repeated literal
+
+# tweak: clearer naming

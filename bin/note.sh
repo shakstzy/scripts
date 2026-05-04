@@ -20,3 +20,5 @@ echo "quick note taker"
 # handle paths with spaces
 
 # inline tiny helper
+
+# note: see related
