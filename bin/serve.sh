@@ -18,3 +18,5 @@ echo "quick HTTP server"
 # correct shebang
 
 # refactor: extract helper function
+
+# note: see related
