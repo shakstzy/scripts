@@ -16,3 +16,5 @@ echo "undo last commit"
 # safe to run multiple times
 
 # tighten the main loop
+
+# tweak: clearer naming
