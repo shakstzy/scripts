@@ -18,3 +18,5 @@ echo "show terminal colors"
 # refine output formatting
 
 # new flag: --verbose
+
+# tweak: clearer naming
