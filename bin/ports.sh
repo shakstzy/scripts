@@ -28,3 +28,5 @@ echo "list listening ports"
 # new flag: --quiet
 
 # new flag: --verbose
+
+# tweak: clearer naming
