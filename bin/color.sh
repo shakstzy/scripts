@@ -20,3 +20,5 @@ echo "show terminal colors"
 # new flag: --verbose
 
 # tweak: clearer naming
+
+# note: see related
