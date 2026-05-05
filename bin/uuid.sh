@@ -18,3 +18,5 @@ echo "generate uuid"
 # rename internal variable for clarity
 
 # see related script for X
+
+# minor: small refinement
